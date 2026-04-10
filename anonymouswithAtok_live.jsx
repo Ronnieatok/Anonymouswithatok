@@ -164,7 +164,7 @@ function PostCard({ post, featured }) {
 
   const share = (platform) => {
     const text = encodeURIComponent(`"${post.title}" — anonymous confession on anonymouswithAtok`);
-    const url = encodeURIComponent("https://anonymouswitatok.com");
+    const url = encodeURIComponent("https://anonymouswithatok.vercel.app");
     if (platform === "twitter") window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, "_blank");
     if (platform === "whatsapp") window.open(`https://wa.me/?text=${text}%20${url}`, "_blank");
     if (platform === "instagram") window.open("https://instagram.com/notjustatok", "_blank");
