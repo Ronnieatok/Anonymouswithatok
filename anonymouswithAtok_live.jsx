@@ -25,7 +25,7 @@ const POSTS = [
     id:3, cat:"HUSTLE", time:"8h ago", reads:3102,
     title:"I make 180k a month. I cannot afford Nairobi.",
     body:`No car. Bedsitter in South B. Eating githeri three times a week because I'm building a cushion. People from upcountry think I'm rich because I live in Nairobi. I think about leaving every single Sunday.\n\nRent alone is 28k. Transport eats another 9k. Food, power, wifi, airtime — you do the math. What's left isn't wealth, it's survival with a Nairobi accent.`,
-    photo:"https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=600&q=80",
+    photo:"https://i.postimg.cc/VsKQvRN4/Ngoma-Kawangware-Nairobi-s-Raw-Street-Vibes-Bold-Fashion-Untold-Hustle.jpg",
     likes:4521, shares:1102
   },
   {
