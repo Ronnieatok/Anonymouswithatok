@@ -53,7 +53,7 @@ const POSTS = [
     id:7, cat:"STREETS", time:"1d ago", reads:987,
     title:"What the Nairobi CBD looks like at 4AM (I work security).",
     body:`By 3AM, Tom Mboya is empty except for us and the cats. There are more cats than you'd believe — they own the city at night. By 4AM the mama mbogas start arriving, pushing carts from God knows where. By 5AM the first matatus come and the city pretends it wasn't just empty an hour ago.\n\nThe Nairobi you know is a costume. The real city breathes differently when you're not watching.`,
-    photo:"<a href='https://postimg.cc/5HPNGBBg' target='_blank'><img src='https://i.postimg.cc/5HPNGBBg/Best-Road-Trips-From-Nairobi.jpg' border='0' alt='Best-Road-Trips-From-Nairobi'></a>",
+    photo:"https://i.postimg.cc/1tSn8M4k/Best-Road-Trips-From-Nairobi.jpg",
     likes:6782, shares:2100
   },
   {
