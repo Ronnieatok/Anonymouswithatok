@@ -11,7 +11,7 @@ const POSTS = [
     id:1, cat:"STORY JABA", time:"2h ago", reads:2341,
     title:"I ran a matatu sacco for 6 months. Here's what they never tell you.",
     body:`Started with one 14-seater, borrowed 800k from a chama. Within three weeks, the driver had already 'lost' the route licence. The conductor was skimming 3k a day. The traffic police knew my matatu by name — not because I was a good operator, but because it was the easiest ATM on the route.\n\nBy month three I understood why saccos behave the way they do. The whole system is designed to extract from the bottom. Passengers pay. Drivers skim. Conductors lie. Police eat. Sacco officials take their cut. And the owner? The owner prays.\n\nI sold the matatu at a loss of 200k. The buyer was another optimist. I wished him luck.`,
-    photo:"https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    photo:"https://i.postimg.cc/Df9D8MhK/Lil-me.jpg",
     likes:847, shares:234
   },
   {
