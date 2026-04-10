@@ -39,7 +39,7 @@ const POSTS = [
     id:5, cat:"CAMPUS", time:"14h ago", reads:1456,
     title:"I sat CATs for three people simultaneously at UoN last semester.",
     body:`Different units, different rooms, same afternoon. Moved between venues during 'toilet breaks.' Got paid 5k per paper. Used the money to pay my own rent because HELB hadn't come through.\n\nI'm not proud of it. But I'm also not going to pretend the system isn't broken when the same university charges full fees during a strike, cancels exams with 24 hours notice, and still hasn't fixed the registration portal since 2019.`,
-    photo:"https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&q=80",
+    photo:"https://i.postimg.cc/2SfVc27d/University-of-Nairobi-to-Hold-Virtual-Graduation-Freshers-to-Undergo-Online-Orientation-JITIMU.jpg",
     likes:3890, shares:782
   },
   {
